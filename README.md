@@ -6,7 +6,7 @@
 
 I am a final-year **Computer Science student at BRAC University**, Dhaka, Bangladesh, with a strong passion for **data science**, **data analytics**, **artificial intelligence**, and **NLP research**. I thrive at the intersection of data and decision-making — turning raw numbers into meaningful, real-world insights.
 
-Currently, I am conducting my undergraduate thesis on **Cross-Cultural Representation Bias in Large Language Models**, applying NLP techniques and data analysis pipelines. I am also expanding my expertise in **full-stack web development** and **AI-driven workflows**. I'm always eager to explore new technologies and take on meaningful challenges that drive innovation.
+Currently, I am conducting my undergraduate thesis on Cross-Cultural Representation Bias in Large Language Models, diving deep into NLP and AI research. I am also actively exploring data science and data analytics — building real-world projects, earning IBM certifications, and developing skills in Python, SQL, Excel, and data visualization. I'm always eager to learn new technologies and take on meaningful challenges that make an impact.
 
 ---
 
