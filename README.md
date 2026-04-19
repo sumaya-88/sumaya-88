@@ -119,4 +119,63 @@ A second full-stack web application project.
 | Joining Data with pandas | DataCamp | Mar 2026 |
 | Reshaping Data with pandas | DataCamp | Mar 2026 |
 | Data Manipulation with pandas | DataCamp | Mar 2026 |
-|
+| UX Design Decision-making with AI | Grameenphone Ltd | Mar 2026 |
+| Design System Thinking with AI | Grameenphone Ltd | Mar 2026 |
+| Data Analysis with Python | Coursera (IBM) | Mar 2026 |
+| Data Analysis with Python | IBM | Mar 2026 |
+| Python for Data Science, AI & Development | IBM | Mar 2026 |
+| Python for Data Science and AI | Coursera | Mar 2026 |
+| Databases and SQL for Data Science with Python | IBM | Mar 2026 |
+| Ethics of AI | University of Helsinki | Mar 2026 |
+| Data Analyst 101 | Simplilearn | Mar 2026 |
+| Python Project for Data Science | IBM | Feb 2026 |
+| Data Visualization and Dashboards with Excel and Cognos | IBM | Feb 2026 |
+| Data Analytics Essentials | Coursera (IBM) | Feb 2026 |
+| Excel Basics for Data Analysis | IBM | Feb 2026 |
+| Introduction to Data Analytics | IBM | Feb 2026 |
+
+---
+
+## I'm Open To Collaborate On:
+
+- **Data Science & Analytics Projects** — dashboards, visualizations, EDA, predictive modelling
+- **AI / NLP / LLM Research** — cross-cultural bias, text analysis, language model evaluation
+- **MERN Stack Projects** — full-stack web apps with MongoDB, Express, React, and Node.js
+- **Web Development** — HTML, CSS, PHP, JavaScript projects
+- **Open Source Contributions** — especially in data-driven tools, ML frameworks, or educational tech
+- **Research-focused Projects** — involving AI, NLP, fairness in AI, or interdisciplinary tech
+- **Content & Documentation** — technical writing, web content, research documentation
+
+---
+
+## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumaya%20Ali-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sumaya-ali-8b2308369/)
+📧 Email: [sumayaali5811@gmail.com](mailto:sumayaali5811@gmail.com)
+
+---
+
+## GitHub Stats & Skills Level-Up
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumaya-88&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/sumaya-88)
+    
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaya-88&layout=compact&theme=radical&hide_border=true)](https://github.com/sumaya-88)
+
+---
+
+## Skills Progress
+> *Levels reflect IBM/Coursera/DataCamp certifications earned + real project experience*
+
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-88%25-brightgreen?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-85%25-brightgreen?style=for-the-badge&logo=python&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-78%25-1e7a34?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SQL & Databases](https://img.shields.io/badge/SQL%20%26%20Databases-75%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Web Dev (PHP/HTML/CSS)](https://img.shields.io/badge/Web%20Dev%20(PHP%2FHTML%2FCSS)-65%25-9333ea?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-60%25-orange?style=for-the-badge) ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-55%25-blueviolet?style=for-the-badge)
+
+![NLP / AI Research](https://img.shields.io/badge/NLP%20%2F%20AI%20Research-50%25-8b5cf6?style=for-the-badge) ![PyOpenGL / Graphics](https://img.shields.io/badge/PyOpenGL%20%2F%20Graphics-45%25-5586a4?style=for-the-badge)
+
+[![Sumaya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumaya-88&bg_color=0d1117&color=ffc0cb&line=ff99aa&point=ffb6c1&area=true&hide_border=true)](https://github.com/sumaya-88)
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sumaya-88&color=blueviolet&style=flat)](https://github.com/sumaya-88)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building.)](https://git.io/typing-svg)
