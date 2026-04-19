@@ -100,9 +100,8 @@ Undergraduate thesis project investigating Cross-Cultural Representation Bias in
 
 ---
 
-### 🌐 <a href="https://github.com/sumaya-88/GLOW-AI-SKINCARE-SYSTEM" target="_blank">
-  AI BASED SKIN ANALYSIS AND SKIN CARE SUGGESTION SYSTEM.(MERN STACK)
-</a>
+### 🌐 [AI BASED SKIN ANALYSIS AND SKIN CARE SUGGESTION SYSTEM.(MERN STACK)](https://github.com/sumaya-88/GLOW-AI-SKINCARE-SYSTEM)
+A second full-stack web application project.
 
 `MongoDB` `Express.js` `React` `Node.js`
 
