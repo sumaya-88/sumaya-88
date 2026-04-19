@@ -34,6 +34,8 @@ Currently, I am conducting my undergraduate thesis on Cross-Cultural Representat
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=flat-square)
+![yfinance](https://img.shields.io/badge/yfinance-0066CC?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
 ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
 
 ### BI & Analytics Tools
@@ -41,6 +43,8 @@ Currently, I am conducting my undergraduate thesis on Cross-Cultural Representat
 ![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos%20Analytics-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-F59E0B?style=flat-square)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=flat-square)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-1e7a34?style=flat-square)
 
 ### Web Development (MERN Stack)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -64,6 +68,27 @@ Analyzed and predicted house sale prices using Python and machine learning. Buil
 Final project for IBM's Data Visualization & Dashboards with Excel and Cognos course. Built an interactive analytics dashboard for a car dealership chain analyzing sales KPIs, service performance, and profit metrics.
 
 `Microsoft Excel` `IBM Cognos Analytics` `HTML` `Chart.js` `Data Visualization`
+
+---
+
+### 🏦 [Financial Performance Dashboard — Apex Bank](https://github.com/sumaya-88/financial-dashboard)
+A complete end-to-end Financial Performance Dashboard demonstrating KPI tracking, data visualization, and financial analysis for a banking institution. Covers 5-year P&L, profitability KPIs, asset quality metrics, and business segment revenue across 5 divisions.
+
+`Python` `Pandas` `NumPy` `openpyxl` `Chart.js` `HTML` `Excel` `Financial Analytics` `Dashboard Design`
+
+---
+
+### 📈 [Stock & Revenue Dashboard Analysis — Tesla & GameStop](https://github.com/sumaya-88/Stock-Revenue-Dashboard-Analysis)
+Final project for IBM's Python Project for Data Science course. Extracted and visualized historical stock prices and quarterly revenue data for Tesla and GameStop using yfinance, web scraping, and Matplotlib.
+
+`Python` `Pandas` `yfinance` `BeautifulSoup` `Requests` `Matplotlib` `Web Scraping` `Data Visualization`
+
+---
+
+### 🚌 [Montgomery Fleet Equipment Analysis](https://github.com/sumaya-88/Montgomery-Fleet-Equipment-Analysis)
+Final project for IBM's Excel Basics for Data Analysis course. Cleaned, prepared, and analyzed Montgomery County's government fleet equipment inventory dataset of 1,582 records across 12 departments using Excel pivot tables.
+
+`Microsoft Excel` `Pivot Tables` `Data Cleaning` `Data Analysis` `EDA`
 
 ---
 
