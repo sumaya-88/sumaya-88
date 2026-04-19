@@ -100,8 +100,9 @@ Undergraduate thesis project investigating Cross-Cultural Representation Bias in
 
 ---
 
-### 🌐 MERN Stack Project 2 *(Coming Soon)*
-A second full-stack web application project.
+### 🌐 <a href="https://github.com/sumaya-88/GLOW-AI-SKINCARE-SYSTEM" target="_blank">
+  AI BASED SKIN ANALYSIS AND SKIN CARE SUGGESTION SYSTEM.(MERN STACK)
+</a>
 
 `MongoDB` `Express.js` `React` `Node.js`
 
