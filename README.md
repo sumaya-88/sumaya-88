@@ -112,6 +112,12 @@ Final project for IBM's Excel Basics for Data Analysis course. Cleaned, prepared
 `Microsoft Excel` `Pivot Tables` `Data Cleaning` `Data Analysis` `EDA`
 
 ---
+### 🌐 [AI BASED SKIN ANALYSIS AND SKIN CARE SUGGESTION SYSTEM (MERN STACK)](https://github.com/sumaya-88/GLOW-AI-SKINCARE-SYSTEM)
+A second full-stack web application project.
+
+`MongoDB` `Express.js` `React` `Node.js`
+
+---
 
 ### 🗄️ [CSE370 — Database Systems Project](https://github.com/sumaya-88/CSE370_Project)
 A full database-driven web application built as part of the CSE370 Database Systems course at BRAC University.
@@ -148,13 +154,6 @@ Undergraduate thesis project investigating Cross-Cultural Representation Bias in
 
 ---
 
-### 🌐 [AI BASED SKIN ANALYSIS AND SKIN CARE SUGGESTION SYSTEM (MERN STACK)](https://github.com/sumaya-88/GLOW-AI-SKINCARE-SYSTEM)
-A second full-stack web application project.
-
-`MongoDB` `Express.js` `React` `Node.js`
-
----
-
 ## 🎓 Certifications
 
 | Certificate | Issuer | Date |
@@ -167,18 +166,16 @@ A second full-stack web application project.
 | Data Manipulation with pandas | DataCamp | Mar 2026 |
 | UX Design Decision-making with AI | Grameenphone Ltd | Mar 2026 |
 | Design System Thinking with AI | Grameenphone Ltd | Mar 2026 |
-| Data Analysis with Python | Coursera (IBM) | Mar 2026 |
 | Data Analysis with Python | IBM | Mar 2026 |
 | Python for Data Science, AI & Development | IBM | Mar 2026 |
-| Python for Data Science and AI | Coursera | Mar 2026 |
 | Databases and SQL for Data Science with Python | IBM | Mar 2026 |
-| Ethics of AI | University of Helsinki | Mar 2026 |
-| Data Analyst 101 | Simplilearn | Mar 2026 |
 | Python Project for Data Science | IBM | Feb 2026 |
 | Data Visualization and Dashboards with Excel and Cognos | IBM | Feb 2026 |
 | Data Analytics Essentials | Coursera (IBM) | Feb 2026 |
 | Excel Basics for Data Analysis | IBM | Feb 2026 |
 | Introduction to Data Analytics | IBM | Feb 2026 |
+| Ethics of AI | University of Helsinki | Mar 2026 |
+| Data Analyst 101 | Simplilearn | Mar 2026 |
 
 ---
 
