@@ -171,7 +171,6 @@ Undergraduate thesis project investigating Cross-Cultural Representation Bias in
 | Databases and SQL for Data Science with Python | IBM | Mar 2026 |
 | Python Project for Data Science | IBM | Feb 2026 |
 | Data Visualization and Dashboards with Excel and Cognos | IBM | Feb 2026 |
-| Data Analytics Essentials | Coursera (IBM) | Feb 2026 |
 | Excel Basics for Data Analysis | IBM | Feb 2026 |
 | Introduction to Data Analytics | IBM | Feb 2026 |
 | Ethics of AI | University of Helsinki | Mar 2026 |
