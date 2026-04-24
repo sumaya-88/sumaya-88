@@ -57,6 +57,13 @@ Currently, I am conducting my undergraduate thesis on Cross-Cultural Representat
 
 ## 📁 Projects
 
+### 📡 [BD Telecom Employer Branding — LinkedIn Analysis 2026](https://github.com/sumaya-88/BD-TELECOME-EMPLOYER-BRANDING)
+A structured competitive analysis of LinkedIn employer branding strategies across **Grameenphone, Robi Axiata, Banglalink, and Teletalk** — with strategic recommendations for Banglalink's HR & Employer Branding team. Includes a fully designed interactive HTML report, Python-generated data visualisations, and structured data exports.
+
+`Python` `Pandas` `Matplotlib` `Seaborn` `HTML` `CSS` `Competitive Analysis` `Social Media Analytics` `Data Visualisation`
+
+---
+
 ### 🏠 [House Sales Price Prediction — King County, USA](https://github.com/sumaya-88/House-Sales-King-County-Analysis)
 Analyzed and predicted house sale prices using Python and machine learning. Built predictive models including Linear Regression, Ridge Regression, and Polynomial Features achieving an **R² score of 0.75**.
 
