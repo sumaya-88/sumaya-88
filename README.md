@@ -46,6 +46,13 @@ Currently, I am conducting my undergraduate thesis on Cross-Cultural Representat
 ![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=flat-square)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-1e7a34?style=flat-square)
 
+### QA & Testing
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-E11D48?style=flat-square)
+![UAT](https://img.shields.io/badge/UAT-DC2626?style=flat-square)
+![Bug Documentation](https://img.shields.io/badge/Bug%20Documentation-B91C1C?style=flat-square)
+![UX Evaluation](https://img.shields.io/badge/UX%20Evaluation-7C3AED?style=flat-square)
+![ISTQB Practices](https://img.shields.io/badge/ISTQB%20Practices-1D4ED8?style=flat-square)
+
 ### Web Development (MERN Stack)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -61,6 +68,13 @@ Currently, I am conducting my undergraduate thesis on Cross-Cultural Representat
 A structured competitive analysis of LinkedIn employer branding strategies across **Grameenphone, Robi Axiata, Banglalink, and Teletalk** — with strategic recommendations for Banglalink's HR & Employer Branding team. Includes a fully designed interactive HTML report, Python-generated data visualisations, and structured data exports.
 
 `Python` `Pandas` `Matplotlib` `Seaborn` `HTML` `CSS` `Competitive Analysis` `Social Media Analytics` `Data Visualisation`
+
+---
+
+### 📋 [bKash UAT Report — Mobile App Quality Assurance](https://github.com/sumaya-88/bkash-uat-report)
+A structured **User Acceptance Testing (UAT) report** for **bKash** — Bangladesh's leading Mobile Financial Services app with 65+ million users. Conducted 28 test scenarios across 8 feature areas over 3 days, identifying **9 bugs** (2 Critical, 3 High, 3 Medium, 1 Low) and **7 major UX friction points**. The app received an overall rating of **6.8/10 — Conditionally Accepted**, with detailed, stakeholder-ready recommendations using ISTQB-aligned severity classification.
+
+`Manual Testing` `UAT` `Bug Documentation` `UX Evaluation` `ISTQB Practices` `QA` `Mobile Testing` `Stakeholder Reporting`
 
 ---
 
@@ -134,7 +148,7 @@ Undergraduate thesis project investigating Cross-Cultural Representation Bias in
 
 ---
 
-### 🌐 [AI BASED SKIN ANALYSIS AND SKIN CARE SUGGESTION SYSTEM.(MERN STACK)](https://github.com/sumaya-88/GLOW-AI-SKINCARE-SYSTEM)
+### 🌐 [AI BASED SKIN ANALYSIS AND SKIN CARE SUGGESTION SYSTEM (MERN STACK)](https://github.com/sumaya-88/GLOW-AI-SKINCARE-SYSTEM)
 A second full-stack web application project.
 
 `MongoDB` `Express.js` `React` `Node.js`
@@ -172,6 +186,7 @@ A second full-stack web application project.
 
 - **Data Science & Analytics Projects** — dashboards, visualizations, EDA, predictive modelling
 - **AI / NLP / LLM Research** — cross-cultural bias, text analysis, language model evaluation
+- **QA & Software Testing** — UAT, manual testing, bug documentation, test case design
 - **MERN Stack Projects** — full-stack web apps with MongoDB, Express, React, and Node.js
 - **Web Development** — HTML, CSS, PHP, JavaScript projects
 - **Open Source Contributions** — especially in data-driven tools, ML frameworks, or educational tech
@@ -200,7 +215,7 @@ A second full-stack web application project.
 
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-88%25-brightgreen?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-85%25-brightgreen?style=for-the-badge&logo=python&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-78%25-1e7a34?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SQL & Databases](https://img.shields.io/badge/SQL%20%26%20Databases-75%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Web Dev (PHP/HTML/CSS)](https://img.shields.io/badge/Web%20Dev%20(PHP%2FHTML%2FCSS)-65%25-9333ea?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-60%25-orange?style=for-the-badge) ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-55%25-blueviolet?style=for-the-badge)
+![Web Dev (PHP/HTML/CSS)](https://img.shields.io/badge/Web%20Dev%20(PHP%2FHTML%2FCSS)-65%25-9333ea?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-60%25-orange?style=for-the-badge) ![QA & Manual Testing](https://img.shields.io/badge/QA%20%26%20Manual%20Testing-60%25-E11D48?style=for-the-badge) ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-55%25-blueviolet?style=for-the-badge)
 
 ![NLP / AI Research](https://img.shields.io/badge/NLP%20%2F%20AI%20Research-50%25-8b5cf6?style=for-the-badge) ![PyOpenGL / Graphics](https://img.shields.io/badge/PyOpenGL%20%2F%20Graphics-45%25-5586a4?style=for-the-badge)
 
